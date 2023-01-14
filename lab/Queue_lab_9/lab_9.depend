@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1629082167 source:e:\north south university\my classroom\4th semester\c++ codes\lab manuals\lab_9\main.cpp
+	<iostream>
+	"quetype.h"
+	"quetype.cpp"
+
+1629082906 e:\north south university\my classroom\4th semester\c++ codes\lab manuals\lab_9\quetype.h
+
+1629082906 e:\north south university\my classroom\4th semester\c++ codes\lab manuals\lab_9\quetype.cpp
+	"quetype.h"
+	<iostream>
+
+1630250026 source:e:\north south university\my classroom\4th semester\c++ codes\lab\queue_lab_9\quetype.cpp
+	"quetype.h"
+	<iostream>
+
+1630250026 e:\north south university\my classroom\4th semester\c++ codes\lab\queue_lab_9\quetype.h
+
+1630246316 source:e:\north south university\my classroom\4th semester\c++ codes\lab\queue_lab_9\main.cpp
+	<iostream>
+	"quetype.h"
+	"quetype.cpp"
+
+1629082906 e:\north south university\my classroom\4th semester\c++ codes\lab\queue_lab_9\quetype.cpp
+	"quetype.h"
+	<iostream>
+

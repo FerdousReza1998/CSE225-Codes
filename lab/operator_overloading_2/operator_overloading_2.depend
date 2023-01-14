@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1629472769 source:e:\north south university\my classroom\4th semester\c++ codes\lab\operator_overloading_2\main.cpp
+	<iostream>
+	"complexnumber.h"
+
+1629472823 source:e:\north south university\my classroom\4th semester\c++ codes\lab\operator_overloading_2\complexnumber.cpp
+	"complexnumber.h"
+	<iostream>
+
+1629472771 e:\north south university\my classroom\4th semester\c++ codes\lab\operator_overloading_2\complexnumber.h
+

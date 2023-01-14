@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1631029316 source:e:\north south university\my classroom\4th semester\c++ codes\lab\unsorted list (linked list based)\main.cpp
+	<iostream>
+
+1630986421 source:e:\north south university\my classroom\4th semester\c++ codes\lab\unsorted list (linked list based)\unsortedtype.cpp
+	"unsortedtype.h"
+	<iostream>
+
+1630986421 e:\north south university\my classroom\4th semester\c++ codes\lab\unsorted list (linked list based)\unsortedtype.h
+

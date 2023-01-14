@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1627667442 source:e:\north south university\my classroom\4th semester\c++ codes\lab\template_class_2\temp.cpp
+	<iostream>
+	"temp.h"
+
+1627669388 e:\north south university\my classroom\4th semester\c++ codes\lab\template_class_2\temp.h
+
+1627669391 source:e:\north south university\my classroom\4th semester\c++ codes\lab\template_class_2\main.cpp
+	<iostream>
+	"temp.h"
+	"temp.cpp"
+
+1627838739 e:\north south university\my classroom\4th semester\c++ codes\lab\template_class_2\temp.cpp
+	<iostream>
+	"temp.h"
+

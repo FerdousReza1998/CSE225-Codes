@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1629887069 source:e:\north south university\my classroom\4th semester\c++ codes\lab\tree_lab_13\main.cpp
+	<bits/stdc++.h>
+	"BinarySearchTree.cpp"
+
+1629903849 source:e:\north south university\my classroom\4th semester\c++ codes\lab\tree_lab_13\binarysearchtree.cpp
+	"binarysearchtree.h"
+	"quetype.cpp"
+	<iostream>
+
+1629886024 e:\north south university\my classroom\4th semester\c++ codes\lab\tree_lab_13\binarysearchtree.h
+	"quetype.h"
+
+1629887069 e:\north south university\my classroom\4th semester\c++ codes\lab\tree_lab_13\quetype.h
+
+1629887069 e:\north south university\my classroom\4th semester\c++ codes\lab\tree_lab_13\quetype.cpp
+	"quetype.h"
+	<iostream>
+
+1629903849 e:\north south university\my classroom\4th semester\c++ codes\lab\tree_lab_13\binarysearchtree.cpp
+	"binarysearchtree.h"
+	"quetype.cpp"
+	<iostream>
+
+1629887069 source:e:\north south university\my classroom\4th semester\c++ codes\lab\tree_lab_13\quetype.cpp
+	"quetype.h"
+	<iostream>
+

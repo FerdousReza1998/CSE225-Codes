@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1627640543 source:e:\north south university\my classroom\4th semester\c++ codes\home practice\class_objects_2\calc.cpp
+	<iostream>
+	"calc.h"
+
+1627640630 e:\north south university\my classroom\4th semester\c++ codes\home practice\class_objects_2\calc.h
+	"calc.h"
+
+1627640396 source:e:\north south university\my classroom\4th semester\c++ codes\home practice\class_objects_2\main.cpp
+	<iostream>
+	"calc.h"
+
+1627640396 source:e:\north south university\my classroom\4th semester\c++ codes\lab\class_objects_2\main.cpp
+	<iostream>
+	"calc.h"
+
+1629038431 e:\north south university\my classroom\4th semester\c++ codes\lab\class_objects_2\calc.h
+
+1627640751 source:e:\north south university\my classroom\4th semester\c++ codes\lab\class_objects_2\calc.cpp
+	<iostream>
+	"calc.h"
+

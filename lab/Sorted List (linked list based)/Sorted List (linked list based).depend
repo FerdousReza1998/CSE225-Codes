@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1631027265 source:e:\north south university\my classroom\4th semester\c++ codes\lab\sorted list (linked list based)\main.cpp
+	<iostream>
+	"sortedtype.h"
+	"sortedtype.cpp"
+
+1630982375 source:e:\north south university\my classroom\4th semester\c++ codes\lab\sorted list (linked list based)\sortedtype.cpp
+	"sortedtype.h"
+	<iostream>
+
+1631027907 e:\north south university\my classroom\4th semester\c++ codes\lab\sorted list (linked list based)\sortedtype.h
+
+1631028202 e:\north south university\my classroom\4th semester\c++ codes\lab\sorted list (linked list based)\sortedtype.cpp
+	"sortedtype.h"
+	<iostream>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1630986638 source:e:\north south university\my classroom\4th semester\c++ codes\lab\priority queue\heaptype.cpp
+	"heaptype.h"
+
+1630986638 e:\north south university\my classroom\4th semester\c++ codes\lab\priority queue\heaptype.h
+
+1584205420 source:e:\north south university\my classroom\4th semester\c++ codes\lab\priority queue\main.cpp
+	<iostream>
+

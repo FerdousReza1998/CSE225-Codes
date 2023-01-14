@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1627391583 source:e:\north south university\my classroom\4th semester\c++ codes\lab manuals\lab 2\lab02_task2\dynarr.cpp
+	"dynarr.h"
+	<iostream>
+
+1627391722 e:\north south university\my classroom\4th semester\c++ codes\lab manuals\lab 2\lab02_task2\dynarr.h
+	<iostream>
+
+1627391583 source:e:\north south university\my classroom\4th semester\c++ codes\lab manuals\lab 2\lab02_task2\main.cpp
+	<iostream>
+	"dynarr.h"
+

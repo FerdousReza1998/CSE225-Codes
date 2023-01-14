@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1628534142 source:e:\north south university\my classroom\4th semester\c++ codes\lab\stack\main.cpp
+	<iostream>
+	"stacktype.h"
+	"stacktype.cpp"
+	<string.h>
+
+1628516089 e:\north south university\my classroom\4th semester\c++ codes\lab\stack\stacktype.h
+
+1628528905 e:\north south university\my classroom\4th semester\c++ codes\lab\stack\stacktype.cpp
+	<iostream>
+	"stacktype.h"
+
+1628528905 source:e:\north south university\my classroom\4th semester\c++ codes\lab\stack\stacktype.cpp
+	<iostream>
+	"stacktype.h"
+

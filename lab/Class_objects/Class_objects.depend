@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1626249670 source:e:\north south university\my classroom\4th semester\c++ codes\lab\class_objects\account.cpp
+	"account.h"
+	<iostream>
+
+1626249670 e:\north south university\my classroom\4th semester\c++ codes\lab\class_objects\account.h
+
+1626251559 source:e:\north south university\my classroom\4th semester\c++ codes\lab\class_objects\main.cpp
+	<iostream>
+	"account.h"
+
